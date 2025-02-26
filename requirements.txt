@@ -1,8 +1,7 @@
-opencv_python
 glog
 numpy
-scikit_image
+scikit-image
 easydict
 matplotlib
-skimage
 tensorflow_gpu==1.15.0
+opencv_python
